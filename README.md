@@ -11,9 +11,9 @@ This is a simple Quiz application built using Python and the Tkinter library for
 - **Immediate Feedback:** Provides immediate feedback on whether the selected answer is correct or incorrect.
 
 ## *Screenshot*:
-![Quiz application screenshot](Images/image2.png)
+![Quiz application screenshot](quiz1.png)
 
-![Quiz application Screenshot](Images/image1.png)
+![Quiz application Screenshot](quiz1.1.png)
 
 
 ## Requirements
@@ -49,5 +49,5 @@ This is a simple Quiz application built using Python and the Tkinter library for
 ## **🌐 Connect with Us**:
 **For any inquiries or suggestions, feel free to reach out to us at**:
 
-- Email: baksisrijita04@gmail.com
-- github: https://github.com/SrijitaBaksi
+- Email: baksisrijita04@gmail.com or chatterjeeanata091@gmail.com
+- github: https://github.com/SrijitaBaksi or https://github.com/Ananta2545
